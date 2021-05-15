@@ -4,7 +4,7 @@
 
 | S No | Problem | Level | Link|
 | --- | --- | --- | --- |
-| 1 | ```diff+ Two Sum``` | + Easy | Click [here](https://leetcode.com/problems/two-sum/) |
+| 1 | ```diff +Two Sum``` | + Easy | Click [here](https://leetcode.com/problems/two-sum/) |
 | 2 | + Max Consecutive Ones | + Easy | Click [here](https://leetcode.com/problems/max-consecutive-ones/) |
 | 3 | + Construct the Rectangle | + Easy | Click [here](https://leetcode.com/problems/construct-the-rectangle/) |
 | 4 | + Prime Number of Set Bits in Binary Representation | + Easy | Click [here](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) |
