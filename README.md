@@ -2,8 +2,8 @@
 
 
 
-| S No | Problem | Level | Related Topics | Leet Code Link | Solution |
-| --- | --- | :-: | --- | :-: | :-: |
+| # | Problem | Level | Related Topics | Leet Code Link | Solution |
+| :-: | --- | :-: | --- | :-: | :-: |
 | 1 | Two Sum | Easy | String | Find [here](https://leetcode.com/problems/two-sum/) | [solution](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/two-sum) |
 | 2 | Max Consecutive Ones | Easy | Array | Find [here](https://leetcode.com/problems/max-consecutive-ones/) | [solution](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/max-consecutive-ones) |
 | 3 | Construct the Rectangle | Easy | Math | Find [here](https://leetcode.com/problems/construct-the-rectangle/) | [solution](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/construct-the-rectangle) |
