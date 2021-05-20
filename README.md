@@ -18,4 +18,4 @@
 | 12 | [Search a 2D Matrix II](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/search-a-2D-matrix-II) | Medium | Binary Search | Find [here](https://leetcode.com/problems/search-a-2d-matrix-ii/) |
 | 13 | [Add Two Numbers](https://github.com/pranavgaur/leet-code/tree/master/java/linked-list/add-two-numbers) | Medium | Linked List | Find [here](https://leetcode.com/problems/add-two-numbers/) |
 | 14 | [String to Integer (atoi)](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/string-to-integer-(atoi)) | Medium | String Manipulation | Find [here](https://leetcode.com/problems/string-to-integer-atoi/) |
-| 14 | [Valid Parentheses](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/valid-parentheses-easy) | Easy | String Manipulation | Find [here](https://leetcode.com/problems/valid-parentheses/) |
+| 15 | [Valid Parentheses](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/valid-parentheses-easy) | Easy | String Manipulation | Find [here](https://leetcode.com/problems/valid-parentheses/) |
