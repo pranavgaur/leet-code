@@ -21,3 +21,5 @@
 | 15 | [Valid Parentheses](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/valid-parentheses-easy) | Easy | String Manipulation | Find [here](https://leetcode.com/problems/valid-parentheses/) |
 | 16 | [Merge Two Sorted Lists](https://github.com/pranavgaur/leet-code/tree/master/java/linked-list/merge-two-sorted-lists) | Easy | Linked List | Find [here](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | 17 | [Merge Sorted Array](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/merge-sorted-arrays) | Easy | Array Manipulation | Find [here](https://leetcode.com/problems/merge-sorted-array/) |
+| 18 | [Merge K Sorted Lists](https://github.com/pranavgaur/leet-code/tree/master/java/linked-list/merge-k-sorted-lists) | Hard | Linked List, Priority Queue | Find [here](https://leetcode.com/problems/merge-k-sorted-lists/) |
+| 19 | [Letter Combinations of a Phone Number](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/letter-combinations-of-a-phone-number) | Medium | String Manipulation | Find [here](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
