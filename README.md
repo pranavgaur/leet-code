@@ -19,3 +19,5 @@
 | 13 | [Add Two Numbers](https://github.com/pranavgaur/leet-code/tree/master/java/linked-list/add-two-numbers) | Medium | Linked List | Find [here](https://leetcode.com/problems/add-two-numbers/) |
 | 14 | [String to Integer (atoi)](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/string-to-integer-(atoi)) | Medium | String Manipulation | Find [here](https://leetcode.com/problems/string-to-integer-atoi/) |
 | 15 | [Valid Parentheses](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/valid-parentheses-easy) | Easy | String Manipulation | Find [here](https://leetcode.com/problems/valid-parentheses/) |
+| 16 | [Merge Two Sorted Lists](https://github.com/pranavgaur/leet-code/tree/master/java/linked-list/merge-two-sorted-lists) | Easy | Linked List | Find [here](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| 17 | [Merge Sorted Array](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/merge-sorted-arrays) | Easy | Array Manipulation | Find [here](https://leetcode.com/problems/merge-sorted-array/) |
