@@ -23,3 +23,6 @@
 | 17 | [Merge Sorted Array](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/merge-sorted-arrays) | Easy | Array Manipulation | Find [here](https://leetcode.com/problems/merge-sorted-array/) |
 | 18 | [Merge K Sorted Lists](https://github.com/pranavgaur/leet-code/tree/master/java/linked-list/merge-k-sorted-lists) | Hard | Linked List, Priority Queue | Find [here](https://leetcode.com/problems/merge-k-sorted-lists/) |
 | 19 | [Letter Combinations of a Phone Number](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/letter-combinations-of-a-phone-number) | Medium | String Manipulation | Find [here](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+| 20 | [Binary Tree Preorder Traversal]() | Easy | Tree Traversal | Find [here](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
+| 21 | [Binary Tree Inorder Traversal]() | Easy | Tree Traversal | Find [here](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
+| 22 | [Binary Tree Postorder Traversal]() | Easy | Tree Traversal | Find [here](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
