@@ -33,3 +33,4 @@
 | 27 | [Shortest word distance]() | Medium | String Manipulation | Find [here](https://leetcode.com/problems/shortest-word-distance/) |
 | 28 | [Robot Bounded In Circle]() | Medium | String Manipulation | Find [here](https://leetcode.com/problems/robot-bounded-in-circle/) |
 | 29 | [Binary Tree Right Side View]() | Medium | Tree Traversal | Find [here](https://leetcode.com/problems/binary-tree-right-side-view/) |
+| 30 | [First Unique Character in a String]() | Easy | String Mannioulation | Find [here](https://leetcode.com/problems/first-unique-character-in-a-string/) |
