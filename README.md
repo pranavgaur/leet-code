@@ -27,3 +27,6 @@
 | 21 | [Binary Tree Inorder Traversal]() | Easy | Tree Traversal | Find [here](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
 | 22 | [Binary Tree Postorder Traversal]() | Easy | Tree Traversal | Find [here](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
 | 23 | [Binary Tree Levelordeer Traversal]() | Medium | Tree Traversal | Find [here](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| 24 | [N-ary Tree Preorder Traversal]() | Easy | Tree Traversal | Find [here](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |
+| 25 | [N-ary Tree Postorder Traversal]() | Easy | Tree Traversal | Find [here](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |
+| 26 | [N-ary Tree Levelorder Traversal]() | Medium | Tree Traversal | Find [here](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |
