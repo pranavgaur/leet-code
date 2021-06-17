@@ -31,4 +31,5 @@
 | 25 | [N-ary Tree Postorder Traversal]() | Easy | Tree Traversal | Find [here](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |
 | 26 | [N-ary Tree Levelorder Traversal]() | Medium | Tree Traversal | Find [here](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |
 | 27 | [Shortest word distance]() | Medium | String Manipulation | Find [here](https://leetcode.com/problems/shortest-word-distance/) |
-| 27 | [Robot Bounded In Circle]() | Medium | String Manipulation | Find [here](https://leetcode.com/problems/robot-bounded-in-circle/) |
+| 28 | [Robot Bounded In Circle]() | Medium | String Manipulation | Find [here](https://leetcode.com/problems/robot-bounded-in-circle/) |
+| 29 | [Binary Tree Right Side View]() | Medium | Tree Traversal | Find [here](https://leetcode.com/problems/binary-tree-right-side-view/) |
