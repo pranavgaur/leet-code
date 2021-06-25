@@ -35,3 +35,4 @@
 | 29 | [Binary Tree Right Side View]() | Medium | Tree Traversal | Find [here](https://leetcode.com/problems/binary-tree-right-side-view/) |
 | 30 | [First Unique Character in a String]() | Easy | String Manipulation | Find [here](https://leetcode.com/problems/first-unique-character-in-a-string/) |
 | 31 | [Two Sum II - Input array is sorted]() | Easy | Array Manipulation | Find [here](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 32 | [Maximum Product Subarray]() | Medium | Array Manipulation, Dynamic Programming | Find [here](https://leetcode.com/problems/maximum-product-subarray/) |
