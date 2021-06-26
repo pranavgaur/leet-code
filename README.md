@@ -39,3 +39,4 @@
 | 33 | [Maximum Subarray]() | Easy | Array Manipulation | Find [here](https://leetcode.com/problems/maximum-subarray/) |
 | 34 | [Edit Distance]() | Hard | String Manipulation, Dynamic Programming | Find [here](https://leetcode.com/problems/edit-distance/) |
 | 35 | [Pow(x, n)]() | Medium | Mathematical Manipulation | Find [here](https://leetcode.com/problems/powx-n/) |
+| 36 | [Text Justification]() | Hard | String Manipulation | Find [here](https://leetcode.com/problems/text-justification/) |
