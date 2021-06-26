@@ -41,3 +41,4 @@
 | 35 | [Pow(x, n)](https://github.com/pranavgaur/leet-code/tree/master/java/mathematical-manipulation/pow(x%2Cn)) | Medium | Mathematical Manipulation | Find [here](https://leetcode.com/problems/powx-n/) |
 | 36 | [Text Justification](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/text-justification) | Hard | String Manipulation | Find [here](https://leetcode.com/problems/text-justification/) |
 | 37 | [Paint House](https://github.com/pranavgaur/leet-code/tree/master/java/mathematical-manipulation/paint-house) | Medium | Mathematical Manipulation, Dynamic Programming | Find [here](https://leetcode.com/problems/paint-house/) |
+| 38 | [Find N Unique Integers Sum up to Zero]() | Easy | Array Manipulation | Find [here](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) |
