@@ -37,4 +37,5 @@
 | 31 | [Two Sum II - Input array is sorted]() | Easy | Array Manipulation | Find [here](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 32 | [Maximum Product Subarray]() | Medium | Array Manipulation, Dynamic Programming | Find [here](https://leetcode.com/problems/maximum-product-subarray/) |
 | 33 | [Maximum Subarray]() | Easy | Array Manipulation | Find [here](https://leetcode.com/problems/maximum-subarray/) |
-| 33 | [Edit Distance]() | Hard | String Manipulation, Dynamic Programming | Find [here](https://leetcode.com/problems/edit-distance/) |
+| 34 | [Edit Distance]() | Hard | String Manipulation, Dynamic Programming | Find [here](https://leetcode.com/problems/edit-distance/) |
+| 35 | [Pow(x, n)]() | Medium | Mathematical Manipulation | Find [here](https://leetcode.com/problems/powx-n/) |
