@@ -40,3 +40,4 @@
 | 34 | [Edit Distance]() | Hard | String Manipulation, Dynamic Programming | Find [here](https://leetcode.com/problems/edit-distance/) |
 | 35 | [Pow(x, n)]() | Medium | Mathematical Manipulation | Find [here](https://leetcode.com/problems/powx-n/) |
 | 36 | [Text Justification]() | Hard | String Manipulation | Find [here](https://leetcode.com/problems/text-justification/) |
+| 37 | [Paint House]() | Medium | Mathematical Manipulation, Dynamic Programming | Find [here](https://leetcode.com/problems/paint-house/) |
