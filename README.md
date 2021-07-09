@@ -42,3 +42,4 @@
 | 36 | [Text Justification](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/text-justification) | Hard | String Manipulation | Find [here](https://leetcode.com/problems/text-justification/) |
 | 37 | [Paint House](https://github.com/pranavgaur/leet-code/tree/master/java/mathematical-manipulation/paint-house) | Medium | Mathematical Manipulation, Dynamic Programming | Find [here](https://leetcode.com/problems/paint-house/) |
 | 38 | [Find N Unique Integers Sum up to Zero]() | Easy | Array Manipulation | Find [here](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) |
+| 39 | [Vertical Order Traversal of a Binary Tree]() | Hard | Binary Tree | Find [here](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) |
