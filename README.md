@@ -45,3 +45,4 @@
 | 39 | [Vertical Order Traversal of a Binary Tree]() | Hard | Binary Tree | Find [here](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) |
 | 40 | [Maximum Level Sum of a Binary Tree]() | Medium | Binary Tree | Find [here](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 41 | [Permutation]() | Medium | Array Manipulation, Backtracking | Find [here](https://leetcode.com/problems/permutations/) |
+| 42 | [Coin Change]() | Medium | Dynamic Programming | Find [here](https://leetcode.com/problems/permutations/) |
