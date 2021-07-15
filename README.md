@@ -48,3 +48,4 @@
 | 42 | [Coin Change]() | Medium | Dynamic Programming | Find [here](https://leetcode.com/problems/permutations/) |
 | 43 | [Path Sum]() | Easy | Binary Tree | Find [here](https://leetcode.com/problems/path-sum/) |
 | 44 | [String Compression]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/string-compression/) |
+| 45 | [Same Tree]() | Easy | Tree Traversal | Find [here](https://leetcode.com/problems/same-tree/) |
