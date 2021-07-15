@@ -46,3 +46,4 @@
 | 40 | [Maximum Level Sum of a Binary Tree]() | Medium | Binary Tree | Find [here](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
 | 41 | [Permutation]() | Medium | Array Manipulation, Backtracking | Find [here](https://leetcode.com/problems/permutations/) |
 | 42 | [Coin Change]() | Medium | Dynamic Programming | Find [here](https://leetcode.com/problems/permutations/) |
+| 43 | [Path Sum]() | Easy | Binary Tree | Find [here](https://leetcode.com/problems/path-sum/) |
