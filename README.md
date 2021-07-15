@@ -47,3 +47,4 @@
 | 41 | [Permutation]() | Medium | Array Manipulation, Backtracking | Find [here](https://leetcode.com/problems/permutations/) |
 | 42 | [Coin Change]() | Medium | Dynamic Programming | Find [here](https://leetcode.com/problems/permutations/) |
 | 43 | [Path Sum]() | Easy | Binary Tree | Find [here](https://leetcode.com/problems/path-sum/) |
+| 44 | [String Compression]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/string-compression/) |
