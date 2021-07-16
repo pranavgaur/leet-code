@@ -53,3 +53,4 @@
 | 47 | [Implement Queue using Stacks]() | Easy | Design | Find [here](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | 48 | [Implement Stack using Queues]() | Easy | Design | Find [here](https://leetcode.com/problems/implement-stack-using-queues/) |
 | 49 | [Binary Tree Longest Consecutive Sequence]() | Medium | Binary Tree | Find [here](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) |
+| 50 | [Asteroid Collision]() | Medium | Array Manipulation, Stack | Find [here](https://leetcode.com/problems/asteroid-collision/) |
