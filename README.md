@@ -51,3 +51,4 @@
 | 45 | [Same Tree]() | Easy | Tree Traversal | Find [here](https://leetcode.com/problems/same-tree/) |
 | 46 | [Subtree of Another Tree]() | Easy | Tree Traversal | Find [here](https://leetcode.com/problems/subtree-of-another-tree/submissions/) |
 | 47 | [Implement Queue using Stacks]() | Easy | Design | Find [here](https://leetcode.com/problems/implement-queue-using-stacks/) |
+| 47 | [Implement Stack using Queues]() | Easy | Design | Find [here](https://leetcode.com/problems/implement-stack-using-queues/) |
