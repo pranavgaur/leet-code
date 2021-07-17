@@ -57,3 +57,4 @@
 | 51 | [Partition Labels]() | Medium | String Manipulation | Find [here](https://leetcode.com/problems/partition-labels/) |
 | 52 | [Word Search]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/word-search/) |
 | 53 | [Combination Sum II]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/combination-sum-ii/) |
+| 54 | [Rotting Oranges]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/rotting-oranges/submissions/) |
