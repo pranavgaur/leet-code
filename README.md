@@ -59,3 +59,4 @@
 | 53 | [Combination Sum II]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/combination-sum-ii/) |
 | 54 | [Rotting Oranges]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/rotting-oranges/) |
 | 55 | [Subsets]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/subsets/) |
+| 56 | [Minimum cost to connect sticks]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) |
