@@ -41,25 +41,25 @@
 | 35 | [Pow(x, n)](https://github.com/pranavgaur/leet-code/tree/master/java/mathematical-manipulation/pow(x%2Cn)) | Medium | Mathematical Manipulation | Find [here](https://leetcode.com/problems/powx-n/) |
 | 36 | [Text Justification](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/text-justification) | Hard | String Manipulation | Find [here](https://leetcode.com/problems/text-justification/) |
 | 37 | [Paint House](https://github.com/pranavgaur/leet-code/tree/master/java/mathematical-manipulation/paint-house) | Medium | Mathematical Manipulation, Dynamic Programming | Find [here](https://leetcode.com/problems/paint-house/) |
-| 38 | [Find N Unique Integers Sum up to Zero]() | Easy | Array Manipulation | Find [here](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) |
-| 39 | [Vertical Order Traversal of a Binary Tree]() | Hard | Binary Tree | Find [here](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) |
-| 40 | [Maximum Level Sum of a Binary Tree]() | Medium | Binary Tree | Find [here](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
-| 41 | [Permutation]() | Medium | Array Manipulation, Backtracking | Find [here](https://leetcode.com/problems/permutations/) |
-| 42 | [Coin Change]() | Medium | Dynamic Programming | Find [here](https://leetcode.com/problems/permutations/) |
-| 43 | [Path Sum]() | Easy | Binary Tree | Find [here](https://leetcode.com/problems/path-sum/) |
-| 44 | [String Compression]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/string-compression/) |
-| 45 | [Same Tree]() | Easy | Tree Traversal | Find [here](https://leetcode.com/problems/same-tree/) |
-| 46 | [Subtree of Another Tree]() | Easy | Tree Traversal | Find [here](https://leetcode.com/problems/subtree-of-another-tree/submissions/) |
-| 47 | [Implement Queue using Stacks]() | Easy | Design | Find [here](https://leetcode.com/problems/implement-queue-using-stacks/) |
-| 48 | [Implement Stack using Queues]() | Easy | Design | Find [here](https://leetcode.com/problems/implement-stack-using-queues/) |
-| 49 | [Binary Tree Longest Consecutive Sequence]() | Medium | Binary Tree | Find [here](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) |
-| 50 | [Asteroid Collision]() | Medium | Array Manipulation, Stack | Find [here](https://leetcode.com/problems/asteroid-collision/) |
-| 00 | [Merge Sort]() | Medium | Sorting | Find [here](https://leetcode.com/problems/sort-an-array/submissions/) |
-| 00 | [Quick Sort]() | Medium | Sorting | Find [here](https://leetcode.com/problems/sort-an-array/submissions/) |
-| 51 | [Partition Labels]() | Medium | String Manipulation | Find [here](https://leetcode.com/problems/partition-labels/) |
-| 52 | [Word Search]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/word-search/) |
-| 53 | [Combination Sum II]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/combination-sum-ii/) |
-| 54 | [Rotting Oranges]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/rotting-oranges/) |
-| 55 | [Subsets]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/subsets/) |
-| 56 | [Minimum cost to connect sticks]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) |
-| 57 | [Validate Binary Search Tree]() | Medium | Binary Tree | Find [here](https://leetcode.com/problems/validate-binary-search-tree/) |
+| 38 | [Find N Unique Integers Sum up to Zero](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/find-n-unique-integers-sum-up-to-zero) | Easy | Array Manipulation | Find [here](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) |
+| 39 | [Vertical Order Traversal of a Binary Tree](https://github.com/pranavgaur/leet-code/tree/master/java/tree/vertical-order-traversal-of-binary-tree) | Hard | Binary Tree | Find [here](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) |
+| 40 | [Maximum Level Sum of a Binary Tree](https://github.com/pranavgaur/leet-code/tree/master/java/tree/maximum-level-sum-of-binary-tree) | Medium | Binary Tree | Find [here](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) |
+| 41 | [Permutation](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/permutations) | Medium | Array Manipulation, Backtracking | Find [here](https://leetcode.com/problems/permutations/) |
+| 42 | [Coin Change](https://github.com/pranavgaur/leet-code/tree/master/java/dynamic-programming/coin-change) | Medium | Dynamic Programming | Find [here](https://leetcode.com/problems/permutations/) |
+| 43 | [Path Sum](https://github.com/pranavgaur/leet-code/tree/master/java/tree/path-sum) | Easy | Binary Tree | Find [here](https://leetcode.com/problems/path-sum/) |
+| 44 | [String Compression](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/string-compression) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/string-compression/) |
+| 45 | [Same Tree](https://github.com/pranavgaur/leet-code/tree/master/java/tree/same-tree) | Easy | Tree Traversal | Find [here](https://leetcode.com/problems/same-tree/) |
+| 46 | [Subtree of Another Tree](https://github.com/pranavgaur/leet-code/tree/master/java/tree/subtree-of-another-tree) | Easy | Tree Traversal | Find [here](https://leetcode.com/problems/subtree-of-another-tree/submissions/) |
+| 47 | [Implement Queue using Stacks](https://github.com/pranavgaur/leet-code/tree/master/java/design/implement-queue-using-stacks) | Easy | Design | Find [here](https://leetcode.com/problems/implement-queue-using-stacks/) |
+| 48 | [Implement Stack using Queues](https://github.com/pranavgaur/leet-code/tree/master/java/design/implement-stack-using-queue) | Easy | Design | Find [here](https://leetcode.com/problems/implement-stack-using-queues/) |
+| 49 | [Binary Tree Longest Consecutive Sequence](https://github.com/pranavgaur/leet-code/tree/master/java/tree/longest-consecutive-sequence-binary-tree) | Medium | Binary Tree | Find [here](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) |
+| 50 | [Asteroid Collision](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/asteroid-collision) | Medium | Array Manipulation, Stack | Find [here](https://leetcode.com/problems/asteroid-collision/) |
+| 00 | [Merge Sort](https://github.com/pranavgaur/leet-code/tree/master/java/sorting-algorithms/merge-sort) | Medium | Sorting | Find [here](https://leetcode.com/problems/sort-an-array/submissions/) |
+| 00 | [Quick Sort](https://github.com/pranavgaur/leet-code/tree/master/java/sorting-algorithms/quick-sort) | Medium | Sorting | Find [here](https://leetcode.com/problems/sort-an-array/submissions/) |
+| 51 | [Partition Labels](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/partition-labels) | Medium | String Manipulation | Find [here](https://leetcode.com/problems/partition-labels/) |
+| 52 | [Word Search](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/word-search) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/word-search/) |
+| 53 | [Combination Sum II](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/combination-sum-ii) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/combination-sum-ii/) |
+| 54 | [Rotting Oranges](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/rotting-oranges) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/rotting-oranges/) |
+| 55 | [Subsets](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/subsets) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/subsets/) |
+| 56 | [Minimum cost to connect sticks](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/minimum-cost-to-connect-sticks) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) |
+| 57 | [Validate Binary Search Tree](https://github.com/pranavgaur/leet-code/tree/master/java/tree/validate-binary-search-tree) | Medium | Binary Tree | Find [here](https://leetcode.com/problems/validate-binary-search-tree/) |
