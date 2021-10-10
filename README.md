@@ -64,3 +64,4 @@
 | 56 | [Minimum cost to connect sticks](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/minimum-cost-to-connect-sticks) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) |
 | 57 | [Validate Binary Search Tree](https://github.com/pranavgaur/leet-code/tree/master/java/tree/validate-binary-search-tree) | Medium | Binary Tree | Find [here](https://leetcode.com/problems/validate-binary-search-tree/) |
 | 58 | [Longest Valid Parenthesis]() | Hard | Stack | Find [here](https://leetcode.com/problems/longest-valid-parentheses) |
+| 59 | [Set Matrix Zeroes]() | Medium | 2D Array | Find [here](https://leetcode.com/problems/set-matrix-zeroes) |
