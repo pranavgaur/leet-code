@@ -66,3 +66,4 @@
 | 58 | [Longest Valid Parenthesis]() | Hard | Stack | Find [here](https://leetcode.com/problems/longest-valid-parentheses) |
 | 59 | [Set Matrix Zeroes]() | Medium | 2D Array | Find [here](https://leetcode.com/problems/set-matrix-zeroes) |
 | 60 | [Group Anagrams]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/group-anagrams) |
+| 61 | [Largest Rectangle in Histogram](https://github.com/pranavgaur/leet-code/tree/master/java/stack/largest-rectangle-in-histogram) | Hard | Stack | Find [here](https://leetcode.com/problems/largest-rectangle-in-histogram) |
