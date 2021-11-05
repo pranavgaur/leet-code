@@ -63,7 +63,9 @@
 | 55 | [Subsets](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/subsets) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/subsets/) |
 | 56 | [Minimum cost to connect sticks](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/minimum-cost-to-connect-sticks) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) |
 | 57 | [Validate Binary Search Tree](https://github.com/pranavgaur/leet-code/tree/master/java/tree/validate-binary-search-tree) | Medium | Binary Tree | Find [here](https://leetcode.com/problems/validate-binary-search-tree/) |
-| 58 | [Longest Valid Parenthesis]() | Hard | Stack | Find [here](https://leetcode.com/problems/longest-valid-parentheses) |
+| 58 | [Longest Valid Parenthesis](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/longest-valid-paranthesis) | Hard | Stack | Find [here](https://leetcode.com/problems/longest-valid-parentheses) |
 | 59 | [Set Matrix Zeroes]() | Medium | 2D Array | Find [here](https://leetcode.com/problems/set-matrix-zeroes) |
 | 60 | [Group Anagrams](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/group-anagrams) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/group-anagrams) |
 | 61 | [Largest Rectangle in Histogram](https://github.com/pranavgaur/leet-code/tree/master/java/stack/largest-rectangle-in-histogram) | Hard | Stack | Find [here](https://leetcode.com/problems/largest-rectangle-in-histogram) |
+| 62 | [Sort Charcaters By Frequency]() | Medium | String Manipulation, Bucket Sort | Find [here](https://leetcode.com/problems/sort-characters-by-frequency) |
+| 62 | [Median of Two Sorted Arrays]() | Hard | Array Manipulation | Find [here](https://leetcode.com/problems/median-of-two-sorted-arrays) |
