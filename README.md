@@ -70,6 +70,7 @@
 | 64 | [Sort Charcaters By Frequency](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/sort-characters-by-frequency) | Medium | String Manipulation, Bucket Sort | Find [here](https://leetcode.com/problems/sort-characters-by-frequency) |
 | 65 | [Median of Two Sorted Arrays](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/median-of-two-sorted-arrays) | Hard | Array Manipulation | Find [here](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 | 66 | [Regular Expression Matching](https://github.com/pranavgaur/leet-code/tree/master/java/dfs/regular-expression-matching) | Hard | String Manipulation, DFS | Find [here](https://leetcode.com/problems/median-of-two-sorted-arrays) |
-| 67 | [Split Array Largest Sum]() | Hard | Binary Search | Find [here](https://leetcode.com/problems/split-array-largest-sum/) |
-| 68 | [Capacity To Ship Packages Within D Days]() | Medium | Binary Search | Find [here](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
-| 69 | [Jump Game]() | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/jump-game/) |
+| 67 | [Split Array Largest Sum](https://github.com/pranavgaur/leet-code/tree/master/java/binary-search/split-array-largest) | Hard | Binary Search | Find [here](https://leetcode.com/problems/split-array-largest-sum/) |
+| 68 | [Capacity To Ship Packages Within D Days](https://github.com/pranavgaur/leet-code/tree/master/java/binary-search/capacity-to-ship-packages-within-d-days) | Medium | Binary Search | Find [here](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
+| 69 | [Jump Game](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/jump-game) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/jump-game/) |
+| 70 | [Jump Game II](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/jump-game-ii) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/jump-game-ii/) |
