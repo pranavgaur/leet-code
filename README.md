@@ -74,3 +74,12 @@
 | 68 | [Capacity To Ship Packages Within D Days](https://github.com/pranavgaur/leet-code/tree/master/java/binary-search/capacity-to-ship-packages-within-d-days) | Medium | Binary Search | Find [here](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
 | 69 | [Jump Game](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/jump-game) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/jump-game/) |
 | 70 | [Jump Game II](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/jump-game-ii) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/jump-game-ii/) |
+| 71 | [Majority Element](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/majority-element) | Easy | Array Manipulation | Find [here](https://leetcode.com/problems/majority-element/)
+| 72 | [Majority Element II](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/majority-element-ii) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/majority-element-ii/) |
+| 73 | [Maximal Rectangle](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/maximal-rectangle) | Hard | Array Manipulation | Find [here](https://leetcode.com/problems/maximal-rectangle) |
+
+
+
+
+
+
