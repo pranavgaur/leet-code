@@ -77,9 +77,7 @@
 | 71 | [Majority Element](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/majority-element) | Easy | Array Manipulation | Find [here](https://leetcode.com/problems/majority-element/)
 | 72 | [Majority Element II](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/majority-element-ii) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/majority-element-ii/) |
 | 73 | [Maximal Rectangle](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/maximal-rectangle) | Hard | Array Manipulation | Find [here](https://leetcode.com/problems/maximal-rectangle) |
-
-
-
-
-
-
+| 74 | [Distinct Subsequences](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/distinct-subsequences) | Hard | String Manipulation, DFS, Cache, DP | Find [here](https://leetcode.com/problems/distinct-subsequences/) |
+| 75 | [Interleaving String](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/interleaving-string) | Medium | String Manipulation, DFS, Cache, DP | Find [here](https://leetcode.com/problems/interleaving-string) |
+| 76 | [Pascals Triangle](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/pascals-triangle) | Easy | Array Manipulation | Find [here](https://leetcode.com/problems/pascals-triangle/) |
+| 77 | [Rotate Array](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/rotate-array) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/rotate-array/) |
