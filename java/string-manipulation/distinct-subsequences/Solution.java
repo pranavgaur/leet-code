@@ -1,27 +1,27 @@
 class Solution {
-    public String frequencySort(String s) {
+    
+    Map<String, Integer> cache = new HashMap<>();
+    public int numDistinct(String s, String t) {
+        return dfs(0,0,s,t);
+    }
+    
+    
+    int dfs(int i, int j, String s, String t) {
+        if(cache.containsKey(i+"+"+j))
+            return cache.get(i+"+"+j);
         
-        Map<Character, Integer> map = new HashMap<Character, Integer>();
+        if(j == t.length())
+            return 1;
         
-        for(int i = 0; i< s.length(); i++){
-            char c = s.charAt(i);
-            map.put(c, map.getOrDefault(c, 0) + 1);
+        if(i == s.length())
+            return 0;
+        
+        if(s.charAt(i) == t.charAt(j)){
+            cache.put(i+"+"+j, (dfs(i+1,j+1,s,t) + dfs(i+1, j,s,t)));
+        } else {
+            cache.put(i+"+"+j, dfs(i+1, j,s,t));
         }
         
-        PriorityQueue<Character> heap = new PriorityQueue<Character>((a,b) -> map.get(b)-map.get(a));
-        for(char c : map.keySet()) {
-            heap.add(c);
-        }
-        
-        StringBuilder sb = new StringBuilder();
-        
-        while(!heap.isEmpty()) {
-            char c = heap.remove();
-            for(int i = 0; i<map.get(c); i++)
-                sb.append(c);
-        }
-        
-        return sb.toString();
-        
+        return cache.get(i+"+"+j);
     }
 }
