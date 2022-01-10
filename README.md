@@ -64,7 +64,7 @@
 | 58 | [Minimum cost to connect sticks](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/minimum-cost-to-connect-sticks) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) |
 | 59 | [Validate Binary Search Tree](https://github.com/pranavgaur/leet-code/tree/master/java/tree/validate-binary-search-tree) | Medium | Binary Tree | Find [here](https://leetcode.com/problems/validate-binary-search-tree/) |
 | 60 | [Longest Valid Parenthesis](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/longest-valid-paranthesis) | Hard | Stack | Find [here](https://leetcode.com/problems/longest-valid-parentheses) |
-| 61 | [Set Matrix Zeroes]() | Medium | 2D Array | Find [here](https://leetcode.com/problems/set-matrix-zeroes) |
+| 61 | [Set Matrix Zeroes](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/set-matrix-zeroes) | Medium | 2D Array | Find [here](https://leetcode.com/problems/set-matrix-zeroes) |
 | 62 | [Group Anagrams](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/group-anagrams) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/group-anagrams) |
 | 63 | [Largest Rectangle in Histogram](https://github.com/pranavgaur/leet-code/tree/master/java/stack/largest-rectangle-in-histogram) | Hard | Stack | Find [here](https://leetcode.com/problems/largest-rectangle-in-histogram) |
 | 64 | [Sort Charcaters By Frequency](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/sort-characters-by-frequency) | Medium | String Manipulation, Bucket Sort | Find [here](https://leetcode.com/problems/sort-characters-by-frequency) |
