@@ -1,34 +1,19 @@
 class Solution {
     public int jump(int[] nums) {
-        int[] result = new int[nums.length];
         
-        int t = nums[0];
-        int max = 0;
-        int pos = 0;
-        int prev = 0;
-        int i = 1;
-        while(i<=t && i<nums.length) {
-            if(max < nums[i] + i) {
-                max = nums[i] + i ;
-                pos = i;
+        int left = 0, right = 0, jumps = 0;
+        
+        while(right < nums.length-1){
+            int maxRange = 0;
+            for(int i = left; i <= right; i++) {
+                maxRange = Math.max(maxRange, i+nums[i]);
             }
-            
-            result[i] = result[prev] + 1;
-            
-            if(i == t) {
-                if(max > t) {
-                    t = max;
-                    max = 0;
-                    prev = pos;
-                } else {
-                    t = nums[i] + i;
-                    max = 0;
-                    prev = i;
-                }
-            }
-            i++;
+            left = right+1;
+            right = maxRange;
+            jumps+=1;
         }
         
-        return result[result.length - 1];
+        return jumps;
+        
     }
 }
