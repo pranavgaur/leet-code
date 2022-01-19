@@ -81,3 +81,5 @@
 | 75 | [Interleaving String](https://github.com/pranavgaur/leet-code/tree/master/java/string-manipulation/interleaving-string) | Medium | String Manipulation, DFS, Cache, DP | Find [here](https://leetcode.com/problems/interleaving-string) |
 | 76 | [Pascals Triangle](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/pascals-triangle) | Easy | Array Manipulation | Find [here](https://leetcode.com/problems/pascals-triangle/) |
 | 77 | [Rotate Array](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/rotate-array) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/rotate-array/) |
+| 78 | [Longest Consecutive Sequence](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/longest-consecutive-sequence) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/longest-consecutive-sequence) |
+| 79 | [Longest Increasing Subsequence](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/longest-increasing-subsequence) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/longest-increasing-subsequence/) |
