@@ -83,3 +83,5 @@
 | 77 | [Rotate Array](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/rotate-array) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/rotate-array/) |
 | 78 | [Longest Consecutive Sequence](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/longest-consecutive-sequence) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/longest-consecutive-sequence) |
 | 79 | [Longest Increasing Subsequence](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/longest-increasing-subsequence) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/longest-increasing-subsequence/) |
+| 80 | [Bottom View Binary Tree](https://github.com/pranavgaur/leet-code/tree/master/java/tree/bottom-view-binary-tree) | Medium | Tree Traversal | Find [here]() |
+| 81 | [Top View Binary Tree](https://github.com/pranavgaur/leet-code/tree/master/java/tree/top-view-binary-tree) | Medium | Tree Traversal | Find [here]() |
