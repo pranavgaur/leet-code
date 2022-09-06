@@ -87,3 +87,4 @@
 | 81 | [Top View Binary Tree](https://github.com/pranavgaur/leet-code/tree/master/java/tree/top-view-binary-tree) | Medium | Tree Traversal | Find [here]() |
 | 82 | [Recover Binary Search Tree](https://github.com/pranavgaur/leet-code/tree/master/java/tree/recover-binary-search-tree) | Medium | Tree Traversal | Find [here](https://leetcode.com/problems/recover-binary-search-tree/) |
 | 83 | [Meeting Rooms II](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/meeting-rooms-ii) | Medium | Array Manipulation | Find [here](https://leetcode.com/problems/meeting-rooms-ii/) |
+| 84 | [Meeting Rooms](https://github.com/pranavgaur/leet-code/tree/master/java/array-manipulation/meeting-rooms) | Easy | Array Manipulation | Find [here](https://leetcode.com/problems/meeting-rooms/) |
